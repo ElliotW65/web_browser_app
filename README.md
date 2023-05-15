@@ -4,5 +4,7 @@ This application accepts URLs input by users and returns the raw HTML of the pag
 
 The application makes use of the Model View Controller and Observer design patterns.
 
+A demo of the application can be viewed by downloading the mp4 video “F21SC_CW1_Application Demo.mp4” and a full technical report of the application can be found in “F21SC_CW1_Report.pdf”.
+
 The application can be run by running the F21SC_CW1_WebBrowser.exe in the “Application” folder.
 
